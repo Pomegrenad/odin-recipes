@@ -1,0 +1,11 @@
+.section{
+    color: rebeccapurple;
+    background-color: bisque;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+h1{
+    font-size: 40px;
+    font-family:"Monaco", monospace ;
+}
